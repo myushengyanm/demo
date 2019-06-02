@@ -1,2 +1,4 @@
 hello
 hahah
+nihao
+nihao
